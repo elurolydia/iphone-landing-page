@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/elurolydia/iphone-landing-page/precache-manifest.89a04845ff2820b4abcedddfdaaaf6c3.js"
+  "/elurolydia/iphone-landing-page/precache-manifest.a0b70ae3b27c9b8685037a72814d7e74.js"
 );
 
 self.addEventListener('message', (event) => {

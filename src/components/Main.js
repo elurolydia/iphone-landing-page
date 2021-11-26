@@ -1,14 +1,14 @@
-// import Buttons from './components/Buttons';
+import Buttons from './Buttons';
 
 const Main = () => {
     return (
-        <div>
+        <div className="landing_page_content">
             <h1>iPhone 13 mini</h1>
-            <p>A suer-bright display in a durable design.
+            <p>A super-bright display in a durable design.
                 Hollywood-worthy video shooting made easy. A lightning-fast chip. 
-                And a big boost in battery life you'll notice evrey day.
+                And a big boost in battery life you'll notice every day.
             </p>
-            {/* <Buttons/> */}
+            <Buttons/>
         </div>
     )
 }

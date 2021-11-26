@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/elurolydia/iphone-landing-page/static/css/main.8b673079.chunk.css",
+    "main.js": "/elurolydia/iphone-landing-page/static/js/main.110d26c2.chunk.js",
+    "main.js.map": "/elurolydia/iphone-landing-page/static/js/main.110d26c2.chunk.js.map",
+    "runtime-main.js": "/elurolydia/iphone-landing-page/static/js/runtime-main.5e85faf2.js",
+    "runtime-main.js.map": "/elurolydia/iphone-landing-page/static/js/runtime-main.5e85faf2.js.map",
+    "static/js/2.392adf55.chunk.js": "/elurolydia/iphone-landing-page/static/js/2.392adf55.chunk.js",
+    "static/js/2.392adf55.chunk.js.map": "/elurolydia/iphone-landing-page/static/js/2.392adf55.chunk.js.map",
+    "static/js/3.86d2f770.chunk.js": "/elurolydia/iphone-landing-page/static/js/3.86d2f770.chunk.js",
+    "static/js/3.86d2f770.chunk.js.map": "/elurolydia/iphone-landing-page/static/js/3.86d2f770.chunk.js.map",
+    "index.html": "/elurolydia/iphone-landing-page/index.html",
+    "precache-manifest.82995c00627c11dbc02d8b2f7785a94d.js": "/elurolydia/iphone-landing-page/precache-manifest.82995c00627c11dbc02d8b2f7785a94d.js",
+    "service-worker.js": "/elurolydia/iphone-landing-page/service-worker.js",
+    "static/css/main.8b673079.chunk.css.map": "/elurolydia/iphone-landing-page/static/css/main.8b673079.chunk.css.map",
+    "static/js/2.392adf55.chunk.js.LICENSE.txt": "/elurolydia/iphone-landing-page/static/js/2.392adf55.chunk.js.LICENSE.txt",
+    "static/media/iPhones.png": "/elurolydia/iphone-landing-page/static/media/iPhones.ae28fbd3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e85faf2.js",
+    "static/js/2.392adf55.chunk.js",
+    "static/css/main.8b673079.chunk.css",
+    "static/js/main.110d26c2.chunk.js"
+  ]
+}

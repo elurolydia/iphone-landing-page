@@ -5,10 +5,10 @@
 
 body{
   background: linear-gradient(to right, #2b416a, #0c121e 40%);
-  /* background-image: url('./components/Images/iPhones'); */
+  background-repeat: no-repeat;
   display: flex;
   height: 100vh;
-  width: 100vh;
+  width: 100vw;
   flex-direction: column;
   justify-content: center;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -96,6 +96,11 @@ p {
   border-style: none;
 }
 
+.solid_btn:hover{
+  cursor: pointer;
+  background-color: #0c121e;
+}
+
 .outline_btn{
   width: 120px;
   height: auto;
@@ -106,4 +111,49 @@ p {
   font-weight: 600;
   border: #f6f5f5 solid 1px;
   margin-left: 20px;
+}
+
+@keyframes btn_anim {
+  from{background-color: transparent;}
+  to{background-color: #f6f5f5;}
+}
+
+.outline_btn:hover {
+  cursor: pointer;
+  background-color: #f6f5f5;
+  transition: ease-in;
+  transition-property: all;
+  transition-delay: 0.1s;
+  color: #0c121e;
+}
+
+h2 {
+  width: auto;
+  height: auto;
+  color: #0c121e;
+  text-align: center;
+}
+
+.error_container {
+  width: auto;
+  height: auto;
+  margin: 0px 20px;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: inherit;
+  align-content: center;
+  justify-items: center;
+  justify-content: center;
+  justify-self: center;
+}
+
+.error_parent {
+  height: 100vh;
+  width: 100vw;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  justify-content: center;
+  align-content: center;
 }

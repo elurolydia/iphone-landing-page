@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8da4dd818e0f78ea889e0391c1cebc4c",
+    "revision": "1d4a9707317bca1d54bf2a53db0c6023",
     "url": "/elurolydia/iphone-landing-page/index.html"
   },
   {
-    "revision": "037946f3b390a914496a",
-    "url": "/elurolydia/iphone-landing-page/static/css/main.8b673079.chunk.css"
+    "revision": "68ebef376d628b6e0bab",
+    "url": "/elurolydia/iphone-landing-page/static/css/main.a6ed38f5.chunk.css"
   },
   {
     "revision": "a47aac1ccb92cf244a1c",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elurolydia/iphone-landing-page/static/js/3.86d2f770.chunk.js"
   },
   {
-    "revision": "037946f3b390a914496a",
-    "url": "/elurolydia/iphone-landing-page/static/js/main.110d26c2.chunk.js"
+    "revision": "68ebef376d628b6e0bab",
+    "url": "/elurolydia/iphone-landing-page/static/js/main.d565a92b.chunk.js"
   },
   {
     "revision": "42ba859ebac564e4aef0",

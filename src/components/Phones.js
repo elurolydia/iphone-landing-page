@@ -1,3 +1,4 @@
+import React from 'react'
 import iPhones from './images/iPhones.png';
 
 const Phones = () => {

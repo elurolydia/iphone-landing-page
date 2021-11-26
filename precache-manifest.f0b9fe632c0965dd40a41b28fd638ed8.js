@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d3b3a932dfdec6e414f84f7063a084f4",
+    "revision": "7f940de1ee87655ec3c6fde65dcd634a",
     "url": "/elurolydia/iphone-landing-page/index.html"
   },
   {

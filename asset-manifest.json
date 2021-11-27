@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/iphone-landing-page/static/css/main.0a5aaf11.chunk.css",
+    "main.css": "/iphone-landing-page/static/css/main.ab412e28.chunk.css",
     "main.js": "/iphone-landing-page/static/js/main.ba8aebeb.chunk.js",
     "main.js.map": "/iphone-landing-page/static/js/main.ba8aebeb.chunk.js.map",
     "runtime-main.js": "/iphone-landing-page/static/js/runtime-main.78534f58.js",
@@ -10,9 +10,9 @@
     "static/js/3.c113c835.chunk.js": "/iphone-landing-page/static/js/3.c113c835.chunk.js",
     "static/js/3.c113c835.chunk.js.map": "/iphone-landing-page/static/js/3.c113c835.chunk.js.map",
     "index.html": "/iphone-landing-page/index.html",
-    "precache-manifest.18634c096c1f508e261c2ae7ed18dfa5.js": "/iphone-landing-page/precache-manifest.18634c096c1f508e261c2ae7ed18dfa5.js",
+    "precache-manifest.020ee758ca151c999cffcf9230cd813d.js": "/iphone-landing-page/precache-manifest.020ee758ca151c999cffcf9230cd813d.js",
     "service-worker.js": "/iphone-landing-page/service-worker.js",
-    "static/css/main.0a5aaf11.chunk.css.map": "/iphone-landing-page/static/css/main.0a5aaf11.chunk.css.map",
+    "static/css/main.ab412e28.chunk.css.map": "/iphone-landing-page/static/css/main.ab412e28.chunk.css.map",
     "static/js/2.2d4dd3eb.chunk.js.LICENSE.txt": "/iphone-landing-page/static/js/2.2d4dd3eb.chunk.js.LICENSE.txt",
     "static/media/iPhones.png": "/iphone-landing-page/static/media/iPhones.ae28fbd3.png",
     "static/media/screen-error.jpg": "/iphone-landing-page/static/media/screen-error.832b3538.jpg"
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.78534f58.js",
     "static/js/2.2d4dd3eb.chunk.js",
-    "static/css/main.0a5aaf11.chunk.css",
+    "static/css/main.ab412e28.chunk.css",
     "static/js/main.ba8aebeb.chunk.js"
   ]
 }
